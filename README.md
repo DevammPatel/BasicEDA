@@ -16,13 +16,13 @@ It contains information about Netflix shows including:
 - Duration
 - Genre (Listed_in)
 
-##🎯 Objectives
+## 🎯 Objectives
 - Perform data cleaning and preprocessing
 - Conduct Exploratory Data Analysis (EDA)
 - Engineer meaningful features for better insights
 - Visualize trends and patterns in Netflix content
 
-##🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 Key steps performed:
 - Handling missing values
@@ -30,7 +30,7 @@ Key steps performed:
 - Removing duplicates
 - Standardizing categorical values
 
-##📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Some of the insights explored:
 - Distribution of Movies vs TV Shows
@@ -39,7 +39,7 @@ Some of the insights explored:
 - Country-wise content production
 - Ratings distribution
 
-##⚙️ Feature Engineering
+## ⚙️ Feature Engineering
 
 Created new features to enhance analysis:
 - year_added from date_added
@@ -47,12 +47,12 @@ Created new features to enhance analysis:
 - Content duration categories
 - Genre splitting for multi-label analysis
 
-##📈 Visualizations
+## 📈 Visualizations
 - Bar charts for categorical distributions
 - Time-series plots for growth trends
 - Heatmaps and count plots for deeper insights
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python 🐍
 - Pandas
 - NumPy
